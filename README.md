@@ -1,0 +1,2 @@
+# Smart-Garbage
+Thesis Project
