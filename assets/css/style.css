@@ -1,0 +1,8 @@
+body {
+  overflow: hidden;
+}
+.card-shadow {
+  box-shadow: 0 0 5px 0 black;
+  border-radius: 20px;
+  padding: 1vw;
+}
